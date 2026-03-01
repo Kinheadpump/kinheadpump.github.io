@@ -1,1 +1,16 @@
+# 🎓 PlatzPilot
 
+Willkommen bei **PlatzPilot** – der App für Studierende am KIT Karlsruhe, um in Echtzeit freie Lern- und Sitzplätze auf dem Campus zu finden.
+
+📱 **Hol dir die App:**
+*(Link zum Google Play Store folgt in Kürze!)*
+
+👨‍💻 **Open Source:**
+Der Quellcode der App ist öffentlich auf GitHub verfügbar: [Zum PlatzPilot Repository](https://github.com/kinheadpump/PlatzPilot)
+
+⚖️ **Rechtliches:**
+* [Datenschutzerklärung](privacy.html)
+* [Impressum](impressum.html)
+
+---
+*PlatzPilot ist ein unabhängiges, studentisches Projekt und steht in keiner offiziellen Verbindung zum Karlsruher Institut für Technologie (KIT).*
