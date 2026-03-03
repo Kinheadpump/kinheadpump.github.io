@@ -3,7 +3,7 @@
 Angaben gemäß § 5 TMG:
 
 Noah Alonso Perez
-53121 Bonn
+Gewerbering 35, 76708 Dettenheim
 
 **Kontakt:**
 E-Mail: platzpilot.app@gmail.com
