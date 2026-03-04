@@ -4,8 +4,11 @@ Wir freuen uns sehr über Ihr Interesse an unserer App "PlatzPilot". Der Datensc
 
 **1. Verantwortlicher**
 Verantwortlich für die App im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
+
 Noah Alonso Perez
+
 Gewerbering 35, 76708 Dettenheim
+
 E-Mail: platzpilot.app@gmail.com
 
 **2. Erhebung und Verarbeitung personenbezogener Daten**
